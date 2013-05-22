@@ -1,4 +1,4 @@
-# Social Buttons
+# Open Social Buttons
 
 ## About
 This social buttons pack was created out of my frustration to find a social button pack that provided the following criteria.
